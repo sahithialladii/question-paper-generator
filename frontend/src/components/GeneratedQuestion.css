@@ -1,0 +1,15 @@
+.generated-questions {
+    margin-top: 20px;
+    padding: 15px;
+    background: #e9f7e9;
+    border: 1px solid #a9d8a9;
+    border-radius: 5px;
+  }
+  
+  .generated-questions h2 {
+    color: #333;
+  }
+  
+  .generated-questions ol {
+    padding-left: 20px;
+  }
